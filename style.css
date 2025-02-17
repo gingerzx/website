@@ -14,3 +14,24 @@ li {
     margin: 15px 0;
 }
 
+.stopwatch {
+    background: #101010;
+    color: white;
+    border: 3px solid white;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    display: block;
+    margin: 20px auto;
+}
+
+.stopwatch:hover {
+    background-color: white;
+    color: #101010;
+    box-shadow: 0 0 10px white;
+}
+a {
+
+    text-decoration: none;
+}
